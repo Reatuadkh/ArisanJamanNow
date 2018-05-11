@@ -1,0 +1,23 @@
+.red{
+	background-color: lightpink;
+	color: black;
+	padding-left: 10px;
+	padding-top: 10px;
+	margin-top: 0px;
+	margin-left: 0px;
+	float: left;
+	height: 300px;	
+	width: 40%;
+}
+
+.redd{
+	background-color: lightgreen;
+	color: black;
+	padding-left: 10px;
+	padding-top: 10px;
+	margin-top: 0px;
+	margin-right: 0px;
+	height: 300px;	
+	width: 60%;
+}
+
